@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 int max_of_four(int a, int b, int c, int d) {
-    
     int list[] = {a, b, c, d};
     int length = sizeof(list) / sizeof(list[0]);
     
