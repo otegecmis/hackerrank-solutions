@@ -14,7 +14,7 @@
 | Write a function                | [Link](https://github.com/otegecmis/problems/blob/main/hackerrank/domains/python/write-a-function.py)            | Python | Introduction |
 | Print Function                  | [Link](https://github.com/otegecmis/problems/blob/main/hackerrank/domains/python/python-print.py)                | Python | Introduction |
 
-#### C
+#### C
 
 | Problem             | Solution                                                                                      | Domain | Subdomain    |
 | ------------------- | --------------------------------------------------------------------------------------------- | ------ | ------------ |
