@@ -1,5 +1,20 @@
 ## Problems
 
+### Algorithms
+
+| Problem                     | Language | Domain     | Subdomain | Level |
+| --------------------------- | -------- | ---------- | ---------- | ----- |
+| [Solve Me First](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/solve-me-first/main.cpp)         | C++      | Algorithms | Warmup     | Easy |
+| [Simple Array Sum](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/simple-array-sum/main.swift)       | Swift    | Algorithms | Warmup     | Easy |
+| [Compare the Triplets](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/compare-the-triplets/Program.cs)   | C#       | Algorithms | Warmup     | Easy |
+| [A Very Big Sum](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/a-very-big-sum/Program.cs)         | C#       | Algorithms | Warmup     | Easy |
+| [Diagonal Difference](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/diagonal-difference/main.py)    |    Python      | Algorithms | Warmup     | Easy |
+| [Plus Minus](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/plus-minus/main.py)             |    Python      | Algorithms | Warmup     | Easy |
+| [Staircase](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/staircase/Program.cs)              |   C#       | Algorithms | Warmup     | Easy |
+| [Mini-Max Sum](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/mini-max-sum/Program.cs)           |    C#      | Algorithms | Warmup     | Easy |
+| [Birthday Cake Candles](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/birthday-cake-candles/main.py)  |   Python       | Algorithms | Warmup     | Easy |
+| [Time Conversion](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/time-conversion/main.py)        |     Python     | Algorithms | Warmup     | Easy |
+
 ### Python
 
 | Problem                         | Domain | Subdomain    |
