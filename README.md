@@ -14,6 +14,7 @@
 | [Mini-Max Sum](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/mini-max-sum/Program.cs)           |    C#      | Algorithms | Warmup     | Easy |
 | [Birthday Cake Candles](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/birthday-cake-candles/main.py)  |   Python       | Algorithms | Warmup     | Easy |
 | [Time Conversion](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/time-conversion/main.py)        |     Python     | Algorithms | Warmup     | Easy |
+| [Grading Students](https://github.com/otegecmis/hackerrank-solutions/blob/main/domains/algorithms/grading/Program.cs)        |     C#     | Algorithms | Implementation     | Easy |
 
 ### Python
 
